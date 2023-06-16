@@ -36,7 +36,8 @@
 ---
 
 ### :fire: Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Knight-03&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Knight-03&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+  [![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=knight_03)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-03)](https://github.com/anuraghazra/github-readme-stats) -->
   
