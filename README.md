@@ -13,25 +13,29 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=Knight-03&style=flat-square&color=blue" alt=""/>
     <h1>
-       Welcome...👋❗
+       Hi,I'm Dhvani👋❗
     </h1>
+    <h3 align="center">I am a Designer, Coder && Programmer🪶</h3>
   </div>
   
+  
+## 🛠 My skills include
 
-### :hammer_and_wrench: Languages and Tools :
-  <div>
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BootStrap"  alt="BootStrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  </div>
+### Languages
+
+![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,js,ts,python&theme=dark) 
+
+### Frameworks and platforms
+
+![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,linux,materialui&theme=dark)
+
+### Databases
+
+![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql&theme=dark)
+
+### Tools
+
+![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
   
 ---
 
@@ -39,5 +43,10 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Knight-03&theme=dark&background=000000)](https://git.io/streak-stats) <br>
   [![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=knight_03)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
+----
+
+<p align="center">
+Thanks for visiting 😎🤝
+</p>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-03)](https://github.com/anuraghazra/github-readme-stats) -->
   
