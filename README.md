@@ -1,9 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
     <div id="badges">
-      <a href="https://www.linkedin.com/in/dhvani-patel-738807223/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
       <a href="https://leetcode.com/Knight-03/">
         <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
       </a>
@@ -13,7 +10,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=Knight-03&style=flat-square&color=blue" alt=""/>
     <h1>
-       Hi,I'm Dhvani👋❗
+       Hi,I'm Knight👋❗
     </h1>
     <h3 align="center">I am a Designer, Coder && Programmer🪶</h3>
   </div>
